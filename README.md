@@ -10,11 +10,11 @@
    I am not a pro yet  but definetly determined and pushing foward everyday.
   
  ## 🔧 My Current Skillset:
-  **Python**: Basic Programming and Data Analysis
-   **SQL**:   Basic queries and data manipulation (learning more every day).
-   **Excel**: Data analysis, pivot tables, and charts.
-  **Data Analytics**: I’ve built a foundation and now I’m ready to dive deeper.
-  **Business Management**: I have a degree in International Business.
+- **Python**: Basic Programming and Data Analysis
+- **SQL**:   Basic queries and data manipulation (learning more every day).
+- **Excel**: Data analysis, pivot tables, and charts.
+- **Data Analytics**: I’ve built a foundation and now I’m ready to dive deeper.
+- **Business Management**: I have a degree in International Business.
 
 # 🚀 What’s Next:
 - I’m looking to apply my growing skills in real-world projects—whether that’s through a **Duales Studium**, an internship, or a part-time job.

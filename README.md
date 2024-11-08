@@ -6,8 +6,8 @@
 
  # MY JOURNEY 🌱
    I started learning IT with  **Harvards' CS50** and gradually progressed to other free online courses through **Cousera and Baobab.**
-  -Got introduced to  **Data Analytics, SQL, Python, C, and Excel.**
-  -I am not a pro yet  but definetly determined and pushing foward everyday.
+   Got introduced to  **Data Analytics, SQL, Python, C, and Excel.**
+   I am not a pro yet  but definetly determined and pushing foward everyday.
   
  ## 🔧 My Current Skillset:
   **Python**: Basic Programming and Data Analysis

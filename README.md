@@ -11,6 +11,7 @@
   
  ## 🔧 My Current Skillset:
 - **Python**: Basic Programming and Data Analysis
+- **R**: Data Analysis
 - **SQL**:   Basic queries and data manipulation (learning more every day).
 - **Excel**: Data analysis, pivot tables, and charts.
 - **Data Analytics**: I’ve built a foundation and now I’m ready to dive deeper.
@@ -21,7 +22,8 @@
 - I want to keep learning, building, and sharing my projects here. Every day is a step closer to my goal.
 
 ## 💬 Let’s Connect:
-- 📧 [hildahnagawa15@gmail.com](mailto:hildahnagawa15@gmail.com)    
+- 📧 [hildahnagawa15@gmail.com](mailto:hildahnagawa15@gmail.com)
+- [Check out my work](https://www.kaggle.com/hildahnagawa)
 - 🔗 Check out my work, and feel free to reach out if you think I’d be a good fit for your team.
 
 I'm still on my way, but I'm eager to make it happen. If you're looking for someone who's committed, constantly learning, and ready to jump in—I'm your person

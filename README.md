@@ -35,6 +35,6 @@ Makerere University Business School
 
 ## Profiles
 
-- [LinkedIn](www.linkedin.com/in/j-hildah-nagawa-6b4bb6193)
+- [LinkedIn](https://www.linkedin.com/in/jane-hildah-nagawa-6b4bb6193 )
 - [Kaggle](https://www.kaggle.com/hildahnagawa )
 

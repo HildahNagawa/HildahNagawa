@@ -1,34 +1,40 @@
-- 👩‍💻 Hi, I’m Hildah Nagawa, a beginner on a big journey 🌍
-- 👀 I am an aspiring Business Analyst. I have dedicated countless hours to learning the basics of **Information Technology and Data Analytics**.
-- 😒 Still amazed at how little I know after all that effort.
 
-    **Welcome to my Github!**
 
- # MY JOURNEY 🌱
-   I started learning IT with  **Harvards' CS50** and gradually progressed to other free online courses through **Cousera and Baobab.**
-   Got introduced to  **Data Analytics, SQL, Python, C, and Excel.**
-   I am not a pro yet  but definetly determined and pushing foward everyday.
-  
- ## 🔧 My Current Skillset:
-- **Python**: Basic Programming and Data Analysis
-- **R**: Data Analysis
-- **SQL**:   Basic queries and data manipulation (learning more every day).
-- **Excel**: Data analysis, pivot tables, and charts.
-- **Data Analytics**: I’ve built a foundation and now I’m ready to dive deeper.
-- **Business Management**: I have a degree in International Business.
+# J.Hildah Nagawa
 
-# 🚀 What’s Next:
-- I’m looking to apply my growing skills in real-world projects—whether that’s through a **Duales Studium**, an internship, or a part-time job.
-- I want to keep learning, building, and sharing my projects here. Every day is a step closer to my goal.
+**M.Sc. Business Informatics | Data Science | Machine Learning | Data Management**
 
-## 💬 Let’s Connect:
-- 📧 [hildahnagawa15@gmail.com](mailto:hildahnagawa15@gmail.com)
-- [Check out my work](https://www.kaggle.com/hildahnagawa)
-- 🔗 Check out my work, and feel free to reach out if you think I’d be a good fit for your team.
+## Technical Skills
 
-I'm still on my way, but I'm eager to make it happen. If you're looking for someone who's committed, constantly learning, and ready to jump in—I'm your person
+- **Programming:** Python, R, SQL, C
+- **Data Science:** Exploratory Data Analysis, Data Cleaning, Data Preprocessing, Data Visualisation
+- **Machine Learning:** Classification, Regression, Predictive Modelling
+- **Deep Learning**
+- **Knowledge Representation:** Ontology Modelling, Knowledge Graphs
+- **Optimisation:** Mathematical Optimisation, Modern Heuristics
 
-<!---
-HildahNagawa/HildahNagawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Selected Projects
+
+- [Fraud Detection](PROJECT_URL) — Machine Learning, Classification
+- [House Price Prediction](PROJECT_URL) — Regression, Predictive Modelling
+- [Housing Market Analysis](PROJECT_URL) — Exploratory Data Analysis
+- [Fitbit Data Analysis](PROJECT_URL) — R, Data Analysis
+- [Twitter Data Analysis](PROJECT_URL) — Python, Data Processing
+
+## Education
+
+**M.Sc. Business Informatics**  
+Friedrich Schiller University Jena
+
+**B.A. International Business**  
+Makerere University Business School
+
+## Certification
+
+- Google Data Analytics Professional Certificate
+
+## Profiles
+
+- [LinkedIn](www.linkedin.com/in/j-hildah-nagawa-6b4bb6193)
+- [Kaggle](https://www.kaggle.com/hildahnagawa )
+

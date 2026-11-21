@@ -15,7 +15,7 @@
 
 ## Selected Projects
 
-- [Fraud Detection](PROJECT_URL) — Machine Learning, Classification
+- [Fraud Detection](https://github.com/HildahNagawa/Fraud-detection) — Machine Learning, Classification
 - [House Price Prediction](PROJECT_URL) — Regression, Predictive Modelling
 - [Housing Market Analysis](PROJECT_URL) — Exploratory Data Analysis
 - [Fitbit Data Analysis](PROJECT_URL) — R, Data Analysis

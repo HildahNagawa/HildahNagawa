@@ -16,10 +16,9 @@
 ## Selected Projects
 
 - [Fraud Detection](https://github.com/HildahNagawa/Fraud-detection) — Machine Learning, Classification
-- [House Price Prediction](https://github.com/HildahNagawa/House-Price-Prediction) — Regression, Predictive Modelling
-- [Housing Market Analysis](PROJECT_URL) — Exploratory Data Analysis
-- [Fitbit Data Analysis](PROJECT_URL) — R, Data Analysis
-- [Twitter Data Analysis](PROJECT_URL) — Python, Data Processing
+- [House Price Prediction](https://github.com/HildahNagawa/House-Price-Prediction) — Regression, Predictive Modelling, Exploratory Data Analysis
+- [Fitbit Data Analysis](https://www.kaggle.com/code/hildahnagawa/fit-bit-data-analysis ) — R, Data Analysis
+- [Twitter Data Analysis](https://www.kaggle.com/code/hildahnagawa/socialmedia-usage-data-analysis ) — Python, Data Processing
 
 ## Education
 
